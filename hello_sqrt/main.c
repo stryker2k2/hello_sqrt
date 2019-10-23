@@ -8,7 +8,7 @@ int square(int a);
 int main() {
 	printf("Hello, World!\n");
 
-	int a = 10;
+	int a = 1000;
 	char x[] = { "This is a string" };
 	int sqNum = 0;
 
